@@ -164,11 +164,6 @@ function Education() {
       location: "Florianópolis - Brazil",
       roles: [
         {
-          title:  "Ph.D. Computer Science",
-          start: "2017",
-          end: "2017 (Interrupted)"
-        },
-        {
           title:  "M.Sc. Computer Science",
           start: "2014",
           end: "2016"
