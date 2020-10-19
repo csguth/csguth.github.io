@@ -58,12 +58,12 @@ function Home() {
   return (
     <section>
       <h2>Home</h2>
-      <p>Hi,</p>
-      <p>My name is Chrystian Guth and I am a master in Computer Science. C++ is the programming language I'm most confortable of working with, however every now and then I challenge myself on trying new tools.</p>
-      <p>I currently live in <a href="https://goo.gl/maps/43V6QZXBvirCwfABA" target="blank">Florianópolis</a> but soon I'll be moving to <a href="https://goo.gl/maps/43V6QZXBvirCwfABA">Eindhoven</a> to work for <a href="https://www.yer.com/" target="blank">YER</a>.</p>
-      <p>Besides Computer Science, I'm also interested in listening to and making music (electric guitar is my main instrument), playing online games and travelling.</p>
-      <p>Although you can reach me on any of my social network profiles, you'll certainly find me at GMail.</p>
-      <p>I'll try to keep this page updated. My resume can be downloaded <a href="resume.pdf">in this link</a>.</p>
+      <p>Hello, World!</p>
+      <p>I am a Software developer based in <a href="https://goo.gl/maps/7PpQXmk1CwX2A2sn9" target="_blank">Eindhoven, NL</a>. Most of the time I use C++ and Phyton, but recently I have been flirting with Rust.</p>
+      <p>I am a Brazilian expat currently working full-time for Philips improving the Image Guided Therapy Devices products.</p>
+      <p>Besides Computer Science, I am also into making music, being the electric guitar my main instrument.</p>
+      <p>Although you can reach me on any of my social network profiles, you will certainly find me at GMail.</p>
+      <p>I will try to keep this page updated. My resume can be downloaded <a href="resume.pdf">in this link</a>.</p>
     </section>
   );
 }
@@ -87,6 +87,22 @@ function mapping(x) {
 
 function Employment() {
   let employment_data = [
+    {
+      company: "Philips Image Guided Therapy Devices",
+      location: "Eindhoven - Netherlands",
+      roles: [
+        {
+          title:  "C++ Software Engineer",
+          start: "Oct 2020",
+          end: "Now"
+        },
+        {
+          title:  "Software Engineer",
+          start: "Sep 2017",
+          end: "Apr 2019"
+        }
+      ]
+    },
     {
       company: "Communication Security Group (CSG)",
       location: "Florianópolis - Brazil",
