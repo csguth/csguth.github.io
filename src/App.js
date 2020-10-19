@@ -59,7 +59,7 @@ function Home() {
     <section>
       <h2>Home</h2>
       <p>Hello, World!</p>
-      <p>I am a Software developer based in <a href="https://goo.gl/maps/7PpQXmk1CwX2A2sn9" target="_blank">Eindhoven, NL</a>. Most of the time I use C++ and Phyton, but recently I have been flirting with Rust.</p>
+      <p>I am a Software developer based in <a href="https://goo.gl/maps/7PpQXmk1CwX2A2sn9" target="_blank">Eindhoven, NL</a>. Most of the time I use C++ and Python, but recently I have been flirting with Rust.</p>
       <p>I am a Brazilian expat currently working full-time for Philips improving the Image Guided Therapy Devices products.</p>
       <p>Besides Computer Science, I am also into making music, being the electric guitar my main instrument.</p>
       <p>Although you can reach me on any of my social network profiles, you will certainly find me at GMail.</p>
