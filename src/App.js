@@ -95,11 +95,6 @@ function Employment() {
           title:  "C++ Software Engineer",
           start: "Oct 2020",
           end: "Now"
-        },
-        {
-          title:  "Software Engineer",
-          start: "Sep 2017",
-          end: "Apr 2019"
         }
       ]
     },
@@ -146,20 +141,15 @@ function Employment() {
       location: "Florianópolis - Brazil",
       roles: [
         {
-          title:  "Researcher",
-          start: "Jul 2016",
-          end: "Feb 2016"
-        },
-        {
-          title:  "Researcher",
+          title:  "Researcher on EDA & Physical Design",
           start: "Jan 2014",
-          end: "Dec 2015"
+          end: "Jul 2016"
         },
         {
-          title:  "Research Assistant",
-          start: "Mar 2011",
+          title:  "Undergrad. Research Assistant",
+          start: "Jan 2011",
           end: "Dec 2013"
-        }
+        },
       ]
     }
   ].map(mapping);
@@ -187,7 +177,7 @@ function Education() {
         {
           title:  "B.Sc. Computer Science",
           start: "2010",
-          end: "2016"
+          end: "2013"
         }
       ]
     }
